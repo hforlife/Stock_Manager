@@ -1,0 +1,12 @@
+		SAMASSA FACTURE
+Numéro Facture : 5005
+Nom Client      : 
+Numero Client : 
+********************************************************
+Produits		Qte		Prix
+********************************************************
+
+Lait		1		500
+Somme Client :		1000
+Somme produit :		500
+Total Net :		500
